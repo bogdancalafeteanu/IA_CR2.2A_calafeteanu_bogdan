@@ -12,7 +12,7 @@ Installation
 Clone the Repository
 1. Open the terminal or command prompt.
 2. Navigate to the wished directory:
-  Example :  cd C:\.
+  Example :  cd C:\ .
 3.Clone the repository:
 git clone https://github.com/bogdancalafeteanu/IA_CR2.2A_calafeteanu_bogdan.git .
 4.After the folder was cloned go to the folder and click on IA.sin found on IA_CR2.2A_calafeteanu_bogdan\IA_CR2.2A_calafeteanu_bogdan\IA.
