@@ -10,11 +10,11 @@ Requirements
 Installation
 
 Clone the Repository
-1. Open the terminal or command prompt.
-2. Navigate to the wished directory:
+1. Open the terminal or command prompt or git bash.
+2. Navigate to the wished directory using cd command :
   Example :  cd C:\ .
 
-3.Clone the repository:
+3.Clone the repository using the command :
 git clone https://github.com/bogdancalafeteanu/IA_CR2.2A_calafeteanu_bogdan.git .
 
-4.After the folder was cloned go to the folder and click on IA.sin found on IA_CR2.2A_calafeteanu_bogdan\IA_CR2.2A_calafeteanu_bogdan\IA.
+4.After the folder was cloned, go to the folder and click on IA.sin found on IA_CR2.2A_calafeteanu_bogdan\IA_CR2.2A_calafeteanu_bogdan\IA.
