@@ -17,4 +17,4 @@ Clone the Repository
 3.Clone the repository using the command :
 git clone https://github.com/bogdancalafeteanu/IA_CR2.2A_calafeteanu_bogdan.git .
 
-4.After the folder is cloned, go to the folder and click on IA.sln found in IA_CR2.2A_calafeteanu_bogdan\IA_CR2.2A_calafeteanu_bogdan\IA.sin.
+4.After the folder is cloned, go to the folder and click on IA.sln found in IA_CR2.2A_calafeteanu_bogdan\IA_CR2.2A_calafeteanu_bogdan\IA.sin using Visual Studio.
