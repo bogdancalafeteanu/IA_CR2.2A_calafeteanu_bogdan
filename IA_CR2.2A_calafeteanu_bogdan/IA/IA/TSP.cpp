@@ -54,7 +54,7 @@ void TSP::depthFirstSearch(int start) {
     // Output the result
     cout << "DFS Result: ";
     for (int i = 0; i <= graph.numCities; i++) {
-        cout << cities[bestPath[i]].getName() << "("<<i<<") ";
+        cout << cities[bestPath[i]].getName() << "("<<cities[bestPath[i]].getId()<<") ";
     }
     cout << "Cost: " << bestCost << endl;
 
@@ -125,7 +125,7 @@ void TSP::uniformCostSearch(int start) {
     // Output the result
     cout << "UCS Result: ";
     for (int i = 0; i <= graph.numCities; ++i) {
-        cout << cities[bestPath[i]].getName() << "("<<i<<") ";
+        cout << cities[bestPath[i]].getName() << "("<<cities[bestPath[i]].getId()<<") ";
     }
     cout << "Cost: " << bestCost << endl;
 }
@@ -212,7 +212,7 @@ void TSP::aStarSearch(int start) {
     cout << "A* Result: ";
     for (int i = 0; i <= graph.numCities; ++i) {
         if (bestPath[i] != -1) { // Only print valid cities
-            cout << cities[bestPath[i]].getName() << "("<<i<<")"<<" ";
+            cout << cities[bestPath[i]].getName() << "("<<cities[bestPath[i]].getId()<<")"<<" ";
         }
     }
     cout << bestCost<<endl;
