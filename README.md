@@ -1,15 +1,15 @@
-# IA_CR2.2A_calafeteanu_bogdan
+IA_CR2.2A_calafeteanu_bogdan
 
-## Description
+Description
 This project is part of an Artificial Intelligence lab. It contains algorithms to solve the Traveling Salesman Problem (TSP) using Depth-First Search, Uniform Cost Search, and A* Search.
 
-## Requirements
+Requirements
 - A C++ compiler (GCC recommended)
 - Git for cloning the repository
 
-## Installation
+Installation
 
-### Clone the Repository
+Clone the Repository
 1. Open the terminal or command prompt.
 2. Navigate to the wished directory:
    ```bash
@@ -17,4 +17,4 @@ This project is part of an Artificial Intelligence lab. It contains algorithms t
   cd C:\
 3.Clone the repository:
 git clone https://github.com/bogdancalafeteanu/IA_CR2.2A_calafeteanu_bogdan.git
-4.Click on IA.sin
+4.After the folder was cloned go to the folder and click on IA.sin found on IA_CR2.2A_calafeteanu_bogdan\IA_CR2.2A_calafeteanu_bogdan\IA
