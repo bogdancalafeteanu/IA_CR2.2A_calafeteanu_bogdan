@@ -5,7 +5,6 @@
 using namespace std;
 
 int main() {
-    const int MAX_CITIES = 13;  // Number of cities
 
     // Define the names of Romanian cities
     string cityNames[MAX_CITIES] = {
